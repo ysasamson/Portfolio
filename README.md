@@ -1,5 +1,5 @@
 # Ysabel's Portfolio
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field, all of which were done using **Python**.
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field, all of which were made using **Python**.
 
 |                                  Project Link                                 |                                                                          Description                                                                          | Libraries                                                            |
 |:-----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------|
